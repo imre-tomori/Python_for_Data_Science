@@ -1,5 +1,5 @@
 # Python_for_Data_Science
-Exploration into python libraries related to Data Science and Machine Learning based on the
+Exploration into Python libraries related to Data Science and Machine Learning based on the
 [tutorial](https://www.youtube.com/playlist?list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU) by Siraj Raval.  
 
 ### Title | Concept | Libraries:  
